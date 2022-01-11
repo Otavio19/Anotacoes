@@ -1,4 +1,4 @@
-<h1>Anotações</h3>
+<h1>Anotações 📝</h3>
 
 <h3> Consumindo API </h3>
 
@@ -14,7 +14,7 @@
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
-<h2>Imagens</h2>
+<h2>Imagens 📷</h2>
 
 <h3>HOME</h3>
 <img alt='HOME' src='Anotacoes/Imagens/HOME.png'>
